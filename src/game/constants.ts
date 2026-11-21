@@ -1,0 +1,15 @@
+export const FIELD_L = 56; // largo (eje X)
+export const FIELD_W = 36; // ancho (eje Z)
+export const HALF_L = FIELD_L / 2;
+export const HALF_W = FIELD_W / 2;
+export const GOAL_HALF = 3.1;
+export const GOAL_H = 2.2;
+export const GOAL_DEPTH = 1.6;
+export const BALL_R = 0.17;
+export const BOX_DEPTH = 9; // área grande
+export const BOX_HALF = 8;
+export const SMALL_BOX_DEPTH = 3;
+export const SMALL_BOX_HALF = 5;
+export const PENALTY_DIST = 7.5;
+export const CENTER_R = 5;
+export const GRAVITY = 9.81;
